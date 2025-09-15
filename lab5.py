@@ -4,7 +4,10 @@
 print("Welcome to Human-Computer Interaction!")
 print("Exploring Information Architecture with Python...\n")
 
-
+website_name = "HCI Demo Site"
+author = "Student Name"
+print("Website:", website_name)
+print("Author:", author, "\n")
 
 sections = {
     "Home": "Welcome to the Homepage. This is where users first arrive.",
